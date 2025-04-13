@@ -8,11 +8,11 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "dark"
+site_theme               : "default"
 title                    : "Hamza Zuberi's Portfolio"
 title_separator          : "-"
 name                     : &name "Hamza Zuberi"
-description              : &description "personal description"
+description              : &description "Machine Learning & MLOps | Python Developer | Pursuing MS in ML"
 url                      : https://Hamza-Zuberi.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Hamza-Zuberi/Hamza-Zuberi.github.io"
@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Hamza Zuberi"
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Machine Learning & MLOps | Python Developer | Pursuing MS in ML"
   location         : "Franklin, Wisconsin"
   employer         : # URL
   uri              : # URL
